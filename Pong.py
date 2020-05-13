@@ -1,4 +1,4 @@
-# Simple pong game using python 3
+# Simple pong game using python 3.
 
 
 import turtle
